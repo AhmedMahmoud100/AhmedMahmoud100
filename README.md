@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmedopo100@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14rGWFDVnHnFCdru-4job7USvuthzQEi1ILvJ5-L8_PQ/edit?usp=sharing](https://docs.google.com/document/d/14rGWFDVnHnFCdru-4job7USvuthzQEi1ILvJ5-L8_PQ/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uIiadPhwlnKTX3hGlzUhiRvU6hRh-DCb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
