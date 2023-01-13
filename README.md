@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-1y8.pages.dev/](https://portfolio-1y8.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://ahmed-mahmoud-portfolio.netlify.app/)
 
 - 📫 How to reach me **ahmedopo100@gmail.com**
 
