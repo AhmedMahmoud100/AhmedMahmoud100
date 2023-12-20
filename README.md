@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **data structures and algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-mahmoud-portfolio.netlify.app/)
 
