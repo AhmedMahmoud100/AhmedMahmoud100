@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Frontend Engineer </h3>
 
 
 - 👨‍💻 All of my projects are available at [https://ahmed-mahmoud-portfolio.netlify.app/)
