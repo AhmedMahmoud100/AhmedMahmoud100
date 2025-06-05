@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **ahmedopo100@gmail.com**
 
-- 📄 Know more about me  [Portoflio]([https://drive.google.com/file/d/1VfXkfWmkRWCLBluNqBizisc-U0P7Oawq/view?usp=sharing](https://ahmed-mahmoud-portfolio.netlify.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
